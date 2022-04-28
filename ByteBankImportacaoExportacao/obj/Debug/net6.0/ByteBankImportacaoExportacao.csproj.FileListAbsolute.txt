@@ -1,0 +1,15 @@
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net6.0\ByteBankImportacaoExportacao.exe
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net6.0\ByteBankImportacaoExportacao.deps.json
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net6.0\ByteBankImportacaoExportacao.runtimeconfig.json
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net6.0\ByteBankImportacaoExportacao.dll
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net6.0\ref\ByteBankImportacaoExportacao.dll
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net6.0\ByteBankImportacaoExportacao.pdb
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.AssemblyInfo.cs
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.dll
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ref\ByteBankImportacaoExportacao.dll
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.pdb
+C:\Users\win\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net6.0\ByteBankImportacaoExportacao.genruntimeconfig.cache
